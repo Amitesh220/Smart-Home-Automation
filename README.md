@@ -11,7 +11,7 @@ Remote Appliance Control: Use the Blynk app to control home devices such as ligh
 
 Real-Time Monitoring: Track temperature, humidity, and motion status directly on your smartphone.
 
-Automated Energy Management:
+# Automated Energy Management:
 
 Motor (e.g., fan or pump) activation based on temperature thresholds.
 
@@ -35,7 +35,7 @@ Buzzer: For audio alerts during security breaches.
 
 Blynk Cloud and App: For remote control and monitoring.
 
-How It Works
+# How It Works
 
 Temperature Monitoring:
 
@@ -69,7 +69,7 @@ Additional Sensors: Include gas leak detection, smoke alarms, and more.
 
 AI Integration: Implement machine learning for predictive and adaptive control.
 
-Installation and Usage
+# Installation and Usage
 
 Hardware Setup:
 
